@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookNativeAds</string>
+
+<!--    facebook placement id -->
+    <string name="facebook_native_placement_id">932127787559681_932128517559608</string>
+    <string name="sponsored">Sponsored</string>
+</resources>
